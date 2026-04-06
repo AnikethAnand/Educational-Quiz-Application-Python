@@ -1,0 +1,1144 @@
+User: jason
+Year Level: 3
+Score: 8 out of 8
+Q: What is the primary gas found in the Earth's atmosphere?
+A: Nitrogen
+Q: What is the smallest unit of matter?
+A: Atom
+Q: What is the process by which plants make their food?
+A: Photosynthesis
+Q: What planet is known as the Red Planet?
+A: Mars
+Q: What is the boiling point of water?
+A: 100C
+Q: What gas do plants absorb from the atmosphere?
+A: Carbon Dioxide
+Q: What is the powerhouse of the cell?
+A: Mitochondria
+Q: What is the chemical symbol for water?
+A: H2O
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 2 out of 8
+Q: Solve for x: 2x + 3 = 5
+A: x = 2
+Q: 5x^2 + 13x = 6, Find x
+A: x = 8 or x = 3
+Q: What is the value of tan(45)?
+A: 1
+Q: Solve the equation: log(x) = 0
+A: x = 0
+Q: What is the derivative of sin(x)?
+A: -cos(x)
+Q: Integrate: x^2 dx
+A: 2x^2 + C
+Q: Differentiate the function f(x) = ln(x)
+A: x
+Q: Solve the equation: e^x = 1
+A: x = 0
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 8 out of 8
+Q: What is the derivative of sin(x)?
+A: cos(x)
+Q: Solve the equation: log(x) = 0
+A: x = 1
+Q: Solve the equation: e^x = 1
+A: x = 0
+Q: Differentiate the function f(x) = ln(x)
+A: 1/x
+Q: Solve for x: 2x + 3 = 5
+A: x = 1
+Q: What is the value of tan(45)?
+A: 1
+Q: 5x^2 + 13x = 6, Find x
+A: x = 2/5 or x = -3
+Q: Integrate: x^2 dx
+A: x^3/3 + C
+-------------------------------------------------------
+User: Aniketh
+Year Level: 13
+Score: 8 out of 8
+Q: Differentiate the function f(x) = ln(x)
+A: 1/x
+Q: Solve the equation: e^x = 1
+A: x = 0
+Q: 5x^2 + 13x = 6, Find x
+A: x = 2/5 or x = -3
+Q: Solve for x: 2x + 3 = 5
+A: x = 1
+Q: What is the derivative of sin(x)?
+A: cos(x)
+Q: Solve the equation: log(x) = 0
+A: x = 1
+Q: Integrate: x^2 dx
+A: x^3/3 + C
+Q: What is the value of tan(45)?
+A: 1
+-------------------------------------------------------
+User: Aniketh
+Year Level: 3
+Score: 7 out of 8
+Q: Solve for x: 2x + 3 = 5
+A: x = 1
+Q: Solve the equation: log(x) = 0
+A: x = 1
+Q: What is the derivative of sin(x)?
+A: cos(x)
+Q: What is the value of tan(45)?
+A: 1
+Q: Solve the equation: e^x = 1
+A: x = 0
+Q: 5x^2 + 13x = 6, Find x
+A: x = 8 or x = 3
+Q: Integrate: x^2 dx
+A: x^3/3 + C
+Q: Differentiate the function f(x) = ln(x)
+A: 1/x
+-------------------------------------------------------
+User: James
+Year Level: 13
+Score: 6 out of 8
+Q: What gas do plants absorb from the atmosphere?
+A: Carbon Dioxide
+Q: What is the chemical symbol for water?
+A: H2O
+Q: What is the process by which plants make their food?
+A: Photosynthesis
+Q: What is the primary gas found in the Earth's atmosphere?
+A: Nitrogen
+Q: What planet is known as the Red Planet?
+A: Mars
+Q: What is the powerhouse of the cell?
+A: Nucleus
+Q: What is the boiling point of water?
+A: 100C
+Q: What is the smallest unit of matter?
+A: Molecule
+-------------------------------------------------------
+User: aniketh
+Year Level: 123
+Score: 1 out of 8
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 23x - 5
+Correct Answer: 23x - 6
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 2
+Correct Answer: x = 3
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 6x^2+9x+y-9
+Correct Answer: 3x^2+8x+y-8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+-------------------------------------------------------
+User: Aniketh
+Year Level: 13
+Score: 7 out of 8
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: What is the value of tan(45)?
+Your Answer: 0
+Correct Answer: 1
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: Solve the equation: log(x) = 0
+Your Answer: x = 1
+Correct Answer: x = 1
+-------------------------------------------------------
+User: Aniketh
+Year Level: 13
+Score: 7 out of 8
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: What is the value of tan(45)?
+Your Answer: 1
+Correct Answer: 1
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: Solve the equation: log(x) = 0
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 2
+Correct Answer: x = 1
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 7 out of 8
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: Solve the equation: log(x) = 0
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: What is the value of tan(45)?
+Your Answer: 0
+Correct Answer: 1
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 7 out of 8
+Q: Solve the equation: log(x) = 0
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: What is the derivative of sin(x)?
+Your Answer: -cos(x)
+Correct Answer: cos(x)
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: What is the value of tan(45)?
+Your Answer: 1
+Correct Answer: 1
+-------------------------------------------------------
+User: Aniketh
+Year Level: 2
+Score: 1 out of 8
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 8
+Correct Answer: 8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 18
+Correct Answer: 22
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 1
+Correct Answer: x = 3
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 36
+Correct Answer: 28
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 8 and x = 2
+Correct Answer: x = 4.5 and x = 1
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 15
+Correct Answer: 35
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 4x^2+5x+y-8
+Correct Answer: 3x^2+8x+y-8
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 7 out of 8
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: Solve the equation: log(x) = 0
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: Solve the equation: e^x = 1
+Your Answer: x = 1
+Correct Answer: x = 0
+Q: What is the value of tan(45)?
+Your Answer: 1
+Correct Answer: 1
+-------------------------------------------------------
+User: Aniketh
+Year Level: 13
+Score: 0 out of 8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 6x^2+9x+y-9
+Correct Answer: 3x^2+8x+y-8
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 15
+Correct Answer: 35
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 1
+Correct Answer: x = 3
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 1 out of 8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 2
+Correct Answer: x = 3
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 23x - 5
+Correct Answer: 23x - 6
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 36
+Correct Answer: 28
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 4x^2+5x+y-8
+Correct Answer: 3x^2+8x+y-8
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 8
+Correct Answer: 8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 15
+Correct Answer: 35
+-------------------------------------------------------
+User: ANiketh
+Year Level: 12
+Score: 1 out of 8
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 6x^2+9x+y-9
+Correct Answer: 3x^2+8x+y-8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 23x - 5
+Correct Answer: 23x - 6
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 2
+Correct Answer: x = 3
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 1 out of 8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 6x^2+9x+y-9
+Correct Answer: 3x^2+8x+y-8
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 1
+Correct Answer: x = 3
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 8 and x = 2
+Correct Answer: x = 4.5 and x = 1
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+-------------------------------------------------------
+User: George
+Year Level: 17
+Score: 5 out of 8
+Q: Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'
+Your Answer: quick
+Correct Answer: quick
+Q: What is the synonym of 'happy'?
+Your Answer: Elated
+Correct Answer: Elated
+Q: Who wrote 'To Kill a Mockingbird'?
+Your Answer: Harper Lee
+Correct Answer: Harper Lee
+Q: Identify the verb in the sentence: 'She runs every morning.'
+Your Answer: runs
+Correct Answer: runs
+Q: What is the main theme of George Orwell's '1984'?
+Your Answer: Love
+Correct Answer: Totalitarianism
+Q: What is the antonym of 'difficult'?
+Your Answer: Hard
+Correct Answer: Easy
+Q: What is the plural of 'child'?
+Your Answer: Childrens
+Correct Answer: Children
+Q: Which of the following is a metaphor?
+Your Answer: He is a shining star
+Correct Answer: He is a shining star
+-------------------------------------------------------
+User: Regan
+Year Level: 13
+Score: 5 out of 8
+Q: What is the powerhouse of the cell?
+Your Answer: Mitochondria
+Correct Answer: Mitochondria
+Q: What is the chemical symbol for water?
+Your Answer: H2O
+Correct Answer: H2O
+Q: What is the process by which plants make their food?
+Your Answer: Photosynthesis
+Correct Answer: Photosynthesis
+Q: What is the smallest unit of matter?
+Your Answer: Electron
+Correct Answer: Atom
+Q: What gas do plants absorb from the atmosphere?
+Your Answer: Carbon Dioxide
+Correct Answer: Carbon Dioxide
+Q: What is the boiling point of water?
+Your Answer: 90C
+Correct Answer: 100C
+Q: What planet is known as the Red Planet?
+Your Answer: Venus
+Correct Answer: Mars
+Q: What is the primary gas found in the Earth's atmosphere?
+Your Answer: Nitrogen
+Correct Answer: Nitrogen
+-------------------------------------------------------
+Date Played: 21-09-2024
+User: Abhi
+Year Level: 13
+Score: 1 out of 8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 15
+Correct Answer: 35
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 8 and x = 2
+Correct Answer: x = 4.5 and x = 1
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 8
+Correct Answer: 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 1
+Correct Answer: x = 3
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 4x^2+5x+y-8
+Correct Answer: 3x^2+8x+y-8
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 18
+Correct Answer: 22
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 36
+Correct Answer: 28
+-------------------------------------------------------
+Date Played: 21-09-2024
+User: Aarman
+Year Level: 13
+Score: 0 out of 8
+Q: What is the main theme of 'The Great Gatsby'?
+Your Answer: Love
+Correct Answer: The American Dream
+Q: What is a synonym for 'effervescent'?
+Your Answer: Serious
+Correct Answer: Lively
+Q: Identify the literary device used in the phrase 'The wind whispered through the trees.'
+Your Answer: Metaphor
+Correct Answer: Personification
+Q: What is the antonym of 'verbose'?
+Your Answer: Wordy
+Correct Answer: Concise
+Q: What is the tone of Edgar Allan Poe's 'The Raven'?
+Your Answer: Joyful
+Correct Answer: Melancholic
+Q: What is the meaning of the phrase 'to burn the midnight oil'?
+Your Answer: To waste time
+Correct Answer: To work late into the night
+Q: Who wrote 'Moby-Dick'?
+Your Answer: Ernest Hemingway
+Correct Answer: Herman Melville
+Q: Who is the author of 'Brave New World'?
+Your Answer: George Orwell
+Correct Answer: Aldous Huxley
+-------------------------------------------------------
+Date Played: 21-09-2024
+User: Aarman
+Year Level: 13
+Score: 0 out of 8
+Q: What is the plural of 'child'?
+Your Answer: Childes
+Correct Answer: Children
+Q: Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'
+Your Answer: jumps
+Correct Answer: quick
+Q: Identify the verb in the sentence: 'She runs every morning.'
+Your Answer: every
+Correct Answer: runs
+Q: What is the antonym of 'difficult'?
+Your Answer: Challenging
+Correct Answer: Easy
+Q: Who wrote 'To Kill a Mockingbird'?
+Your Answer: Jane Austen
+Correct Answer: Harper Lee
+Q: What is the main theme of George Orwell's '1984'?
+Your Answer: Freedom
+Correct Answer: Totalitarianism
+Q: What is the synonym of 'happy'?
+Your Answer: Angry
+Correct Answer: Elated
+Q: Which of the following is a metaphor?
+Your Answer: The wind howled
+Correct Answer: He is a shining star
+-------------------------------------------------------
+User: Edison
+Year Level: 12
+Score: 4 out of 8
+Q: What is the most abundant element in the universe?
+Your Answer: Hydrogen
+Correct Answer: Hydrogen
+Q: What is the approximate age of the Earth?
+Your Answer: 4.5 billion years
+Correct Answer: 4.5 billion years
+Q: What is the chemical formula for glucose?
+Your Answer: C12H22O11
+Correct Answer: C6H12O6
+Q: What is the chemical formula for table salt?
+Your Answer: KCl
+Correct Answer: NaCl
+Q: What organelle is responsible for photosynthesis?
+Your Answer: Chloroplast
+Correct Answer: Chloroplast
+Q: What is the study of living organisms?
+Your Answer: Chemistry
+Correct Answer: Biology
+Q: What is the main gas in the Earth's atmosphere?
+Your Answer: Nitrogen
+Correct Answer: Nitrogen
+Q: What type of bond is formed between sodium and chlorine in table salt?
+Your Answer: Metallic bond
+Correct Answer: Ionic bond
+-------------------------------------------------------
+User: George
+Year Level: 12
+Score: 0 out of 8
+Q: What is the approximate age of the Earth?
+Your Answer: 4.5 trillion years
+Correct Answer: 4.5 billion years
+Q: What is the main gas in the Earth's atmosphere?
+Your Answer: Argon
+Correct Answer: Nitrogen
+Q: What type of bond is formed between sodium and chlorine in table salt?
+Your Answer: Hydrogen bond
+Correct Answer: Ionic bond
+Q: What is the chemical formula for table salt?
+Your Answer: KCl
+Correct Answer: NaCl
+Q: What is the study of living organisms?
+Your Answer: Geology
+Correct Answer: Biology
+Q: What is the chemical formula for glucose?
+Your Answer: C2H5OH
+Correct Answer: C6H12O6
+Q: What is the most abundant element in the universe?
+Your Answer: Helium
+Correct Answer: Hydrogen
+Q: What organelle is responsible for photosynthesis?
+Your Answer: Ribosome
+Correct Answer: Chloroplast
+-------------------------------------------------------
+User: Jordan
+Year Level: 12
+Score: 2 out of 8
+Q: What is the most abundant gas in the Earth's atmosphere?
+Your Answer: Carbon Dioxide
+Correct Answer: Nitrogen
+Q: What is the most common isotope of carbon?
+Your Answer: Carbon-14
+Correct Answer: Carbon-12
+Q: What is the force of attraction between two objects due to their masses?
+Your Answer: Gravitational force
+Correct Answer: Gravitational force
+Q: What is the molecular formula of methane?
+Your Answer: C3H8
+Correct Answer: CH4
+Q: What is the pH of a neutral solution?
+Your Answer: 14
+Correct Answer: 7
+Q: What is the strongest type of chemical bond?
+Your Answer: Metallic bond
+Correct Answer: Covalent bond
+Q: What type of radiation is the most penetrating?
+Your Answer: Gamma
+Correct Answer: Gamma
+Q: What is the process of nuclear fusion?
+Your Answer: Splitting an atomic nucleus into smaller parts
+Correct Answer: Combining two atomic nuclei to form a heavier nucleus
+-------------------------------------------------------
+User: Mirav
+Year Level: 12
+Score: 2 out of 8
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 5
+Correct Answer: x = 5
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 2
+Correct Answer: x = 1
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 23x - 5
+Correct Answer: 23x - 6
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 2
+Correct Answer: x = 3
+-------------------------------------------------------
+User: Aryan
+Year Level: 12
+Score: 8 out of 8
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 3x^2+8x+y-8
+Correct Answer: 3x^2+8x+y-8
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2/5 or x = -3
+Correct Answer: x = 2/5 or x = -3
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4.5 and x = 1
+Correct Answer: x = 4.5 and x = 1
+Q: What is the value of tan(45)?
+Your Answer: 1
+Correct Answer: 1
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+-------------------------------------------------------
+User: harry
+Year Level: 12
+Score: 8 out of 8
+Q: What planet is known as the Red Planet?
+Your Answer: Mars
+Correct Answer: Mars
+Q: What is the chemical symbol for water?
+Your Answer: H2O
+Correct Answer: H2O
+Q: What is the boiling point of water?
+Your Answer: 100C
+Correct Answer: 100C
+Q: What is the smallest unit of matter?
+Your Answer: Atom
+Correct Answer: Atom
+Q: What is the process by which plants make their food?
+Your Answer: Photosynthesis
+Correct Answer: Photosynthesis
+Q: What gas do plants absorb from the atmosphere?
+Your Answer: Carbon Dioxide
+Correct Answer: Carbon Dioxide
+Q: What is the powerhouse of the cell?
+Your Answer: Mitochondria
+Correct Answer: Mitochondria
+Q: What is the primary gas found in the Earth's atmosphere?
+Your Answer: Nitrogen
+Correct Answer: Nitrogen
+-------------------------------------------------------
+User: latha
+Year Level: 12
+Score: 7 out of 8
+Q: What is the process of mitosis?
+Your Answer: Cell division
+Correct Answer: Cell division
+Q: What is the most abundant element in the universe?
+Your Answer: Hydrogen
+Correct Answer: Hydrogen
+Q: What is the chemical formula for glucose?
+Your Answer: C2H5OH
+Correct Answer: C6H12O6
+Q: What is the approximate age of the Earth?
+Your Answer: 4.5 billion years
+Correct Answer: 4.5 billion years
+Q: What is the pH of a basic solution?
+Your Answer: More than 7
+Correct Answer: More than 7
+Q: What is the chemical formula for table salt?
+Your Answer: NaCl
+Correct Answer: NaCl
+Q: What organelle is responsible for photosynthesis?
+Your Answer: Chloroplast
+Correct Answer: Chloroplast
+Q: What type of bond is formed between sodium and chlorine in table salt?
+Your Answer: Ionic bond
+Correct Answer: Ionic bond
+-------------------------------------------------------
+Date Played: 23-09-2024
+User: Yash
+Year Level: 13
+Score: 5 out of 8
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 3 and x = 2
+Correct Answer: x = 4.5 and x = 1
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 4x^2+5x+y-8
+Correct Answer: 3x^2+8x+y-8
+Q: What is the value of tan(45)?
+Your Answer: 1
+Correct Answer: 1
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2 or x = 6
+Correct Answer: x = 2/5 or x = -3
+-------------------------------------------------------
+Date Played: 24-09-2024
+User: shain
+Year Level: 13
+Score: 5 out of 8
+Q: Who wrote 'To Kill a Mockingbird'?
+Your Answer: Harper Lee
+Correct Answer: Harper Lee
+Q: What is the synonym of 'happy'?
+Your Answer: Elated
+Correct Answer: Elated
+Q: Identify the verb in the sentence: 'She runs every morning.'
+Your Answer: every
+Correct Answer: runs
+Q: Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'
+Your Answer: quick
+Correct Answer: quick
+Q: Which of the following is a metaphor?
+Your Answer: The leaves danced
+Correct Answer: He is a shining star
+Q: What is the plural of 'child'?
+Your Answer: Children
+Correct Answer: Children
+Q: What is the main theme of George Orwell's '1984'?
+Your Answer: Love
+Correct Answer: Totalitarianism
+Q: What is the antonym of 'difficult'?
+Your Answer: Easy
+Correct Answer: Easy
+-------------------------------------------------------
+Date Played: 24-09-2024
+User: zane
+Year Level: 13
+Score: 3 out of 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 3
+Correct Answer: x = 3
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 32
+Correct Answer: 28
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 5
+Correct Answer: x = 5
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 23x - 5
+Correct Answer: 23x - 6
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 2
+Correct Answer: x = 1
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+-------------------------------------------------------
+Date Played: 25-09-2024
+User: zane
+Year Level: 13
+Score: 5 out of 8
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 1
+Correct Answer: x = 1
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 5
+Correct Answer: x = 5
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 3
+Correct Answer: x = 3
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 40
+Correct Answer: 28
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 8
+Correct Answer: 8
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+-------------------------------------------------------
+Date Played: 24-09-2024
+User: babu
+Year Level: 13
+Score: 6 out of 8
+Q: What is the primary gas found in the Earth's atmosphere?
+Your Answer: Oxygen
+Correct Answer: Nitrogen
+Q: What gas do plants absorb from the atmosphere?
+Your Answer: Carbon Dioxide
+Correct Answer: Carbon Dioxide
+Q: What is the smallest unit of matter?
+Your Answer: Proton
+Correct Answer: Atom
+Q: What is the process by which plants make their food?
+Your Answer: Photosynthesis
+Correct Answer: Photosynthesis
+Q: What planet is known as the Red Planet?
+Your Answer: Mars
+Correct Answer: Mars
+Q: What is the powerhouse of the cell?
+Your Answer: Mitochondria
+Correct Answer: Mitochondria
+Q: What is the chemical symbol for water?
+Your Answer: H2O
+Correct Answer: H2O
+Q: What is the boiling point of water?
+Your Answer: 100C
+Correct Answer: 100C
+-------------------------------------------------------
+Date Played: 25-09-2024
+User: alan
+Year Level: 13
+Score: 1 out of 8
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 2x^2+4x+y
+Correct Answer: 3x^2+8x+y-8
+Q: What is the value of tan(45)?
+Your Answer: 2
+Correct Answer: 1
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: Solve the equation: e^x = 1
+Your Answer: x = 1
+Correct Answer: x = 0
+Q: What is the derivative of sin(x)?
+Your Answer: sin(x)
+Correct Answer: cos(x)
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: x
+Correct Answer: 1/x
+Q: Integrate: x^2 dx
+Your Answer: x^3/3 + C
+Correct Answer: x^3/3 + C
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 2 or x = 6
+Correct Answer: x = 2/5 or x = -3
+-------------------------------------------------------
+Date Played: 25-09-2024
+User: Jason
+Year Level: 9
+Score: 2 out of 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 3
+Correct Answer: x = 3
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: None
+Correct Answer: 23x - 6
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 7
+Correct Answer: 8
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 40
+Correct Answer: 56
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 3
+Correct Answer: x = 1
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 15
+Correct Answer: 35
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 18
+Correct Answer: 22
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 5
+Correct Answer: x = 5
+-------------------------------------------------------
+User: Aniketh
+Year Level: 13
+Score: 3 out of 8
+Q: Solve for x: 2x + 3 = 5
+A: x = 3
+Q: What is (2^3) * (3^2) - (4^2)
+A: 56
+Q: Solve for x: 3x - 5 = 10
+A: x = 5
+Q: If f(x) = 3x + 7, what is f(5)?
+A: 18
+Q: If y = 2x + 3, and y = 9, find x
+A: x = 1
+Q: Simplify sqrt(16 + 4 * 9)
+A: 8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+A: 15
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+A: 14x - 5
+-------------------------------------------------------
+User: aniketh
+Year Level: 12
+Score: 2 out of 8
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 2
+Correct Answer: x = 3
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 3
+Correct Answer: x = 5
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 20
+Correct Answer: 22
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 2
+Correct Answer: x = 1
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 56
+Correct Answer: 56
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 9
+Correct Answer: 8
+-------------------------------------------------------
+User: Aniketh
+Year Level: 9
+Score: 8 out of 8
+Q: What is (2^3) * (3^2) - (4^2)
+A: 32
+Q: Simplify sqrt(16 + 4 * 9)
+A: 7
+Q: Solve for x: 2x + 3 = 5
+A: x = 2
+Q: If f(x) = 3x + 7, what is f(5)?
+A: 20
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+A: 23x - 5
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+A: 35
+Q: If y = 2x + 3, and y = 9, find x
+A: x = 2
+Q: Solve for x: 3x - 5 = 10
+A: x = 3
+-------------------------------------------------------
+User: Jordan
+Year Level: 9
+Score: 1 out of 8
+Q: What is the primary gas found in the Earth's atmosphere?
+A: Oxygen
+Q: What is the chemical symbol for water?
+A: O2
+Q: What is the boiling point of water?
+A: 95C
+Q: What is the smallest unit of matter?
+A: Molecule
+Q: What gas do plants absorb from the atmosphere?
+A: Nitrogen
+Q: What is the process by which plants make their food?
+A: Photosynthesis
+Q: What planet is known as the Red Planet?
+A: Venus
+Q: What is the powerhouse of the cell?
+A: Ribosome
+-------------------------------------------------------
+User: Aniketh
+Year Level: 12
+Score: 3 out of 8
+Q: What is the main theme of George Orwell's '1984'?
+Your Answer: Freedom
+Correct Answer: Totalitarianism
+Q: What is the antonym of 'difficult'?
+Your Answer: Hard
+Correct Answer: Easy
+Q: Identify the verb in the sentence: 'She runs every morning.'
+Your Answer: runs
+Correct Answer: runs
+Q: Identify the adjective in the sentence: 'The quick brown fox jumps over the lazy dog.'
+Your Answer: jumps
+Correct Answer: quick
+Q: What is the plural of 'child'?
+Your Answer: Children
+Correct Answer: Children
+Q: What is the synonym of 'happy'?
+Your Answer: Angry
+Correct Answer: Elated
+Q: Which of the following is a metaphor?
+Your Answer: He is a shining star
+Correct Answer: He is a shining star
+Q: Who wrote 'To Kill a Mockingbird'?
+Your Answer: Jane Austen
+Correct Answer: Harper Lee
+-------------------------------------------------------
+Date Played: 26-09-2024
+User: Aniketh
+Year Level: 13
+Score: 3 out of 8
+Q: Differentiate the function f(x) = ln(x)
+Your Answer: 1/x
+Correct Answer: 1/x
+Q: Find the perimeter of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y
+Your Answer: 6x^2+9x+y-9
+Correct Answer: 3x^2+8x+y-8
+Q: Solve the equation: e^x = 1
+Your Answer: x = 0
+Correct Answer: x = 0
+Q: 5x^2 + 13x = 6, Find x
+Your Answer: x = 8 or x = 3
+Correct Answer: x = 2/5 or x = -3
+Q: What is the value of tan(45)?
+Your Answer: 0
+Correct Answer: 1
+Q: Integrate: x^2 dx
+Your Answer: 2x^2 + C
+Correct Answer: x^3/3 + C
+Q: If the area of a right angle triangle with the base = 2x-5, height = x-3 and hypotenuse = 3x^2+5x+y = 3cm^2, Find x
+Your Answer: x = 4 and x = 3.5
+Correct Answer: x = 4.5 and x = 1
+Q: What is the derivative of sin(x)?
+Your Answer: cos(x)
+Correct Answer: cos(x)
+-------------------------------------------------------
+Date Played: 06-04-2026
+User: aniketh
+Year Level: 12
+Score: 4 out of 8
+Q: What is the value of (5x - 3)(2x + 1) when x = 2?
+Your Answer: 35
+Correct Answer: 35
+Q: What is (2^3) * (3^2) - (4^2)
+Your Answer: 56
+Correct Answer: 56
+Q: Simplify sqrt(16 + 4 * 9)
+Your Answer: 8
+Correct Answer: 8
+Q: Solve for x: 2x + 3 = 5
+Your Answer: x = 3
+Correct Answer: x = 1
+Q: If y = 2x + 3, and y = 9, find x
+Your Answer: x = 1
+Correct Answer: x = 3
+Q: Simplify the expression: 4(2x - 3) + 3(5x + 2)
+Your Answer: 14x - 5
+Correct Answer: 23x - 6
+Q: If f(x) = 3x + 7, what is f(5)?
+Your Answer: 18
+Correct Answer: 22
+Q: Solve for x: 3x - 5 = 10
+Your Answer: x = 5
+Correct Answer: x = 5
+-------------------------------------------------------
