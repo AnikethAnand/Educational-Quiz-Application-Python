@@ -1,5 +1,5 @@
 Interactive Educational Assessment Platform
-![App Preview](Screenshot 2026-04-06 143849.png)
+![App Preview](Screenshot%202026-04-06%20143849.png)
 A Python-based GUI application designed to facilitate student learning for NCEA levels. The application provides an interactive quiz environment across multiple subjects, featuring real-time feedback and performance visualization.
 
 Features
